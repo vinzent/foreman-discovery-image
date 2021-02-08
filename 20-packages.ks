@@ -1,4 +1,5 @@
 %packages --excludedocs
+kmod-e1000e
 bash
 kernel
 biosdevname

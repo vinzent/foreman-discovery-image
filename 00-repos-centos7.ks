@@ -4,3 +4,4 @@ repo --name=epel7 --mirrorlist=https://mirrors.fedoraproject.org/metalink?repo=e
 repo --name=centos-sclo-rh --mirrorlist=http://mirrorlist.centos.org/?release=7&arch=x86_64&repo=sclo-rh
 repo --name=foreman-el7 --baseurl=http://yum.theforeman.org/nightly/el7/$basearch/
 repo --name=foreman-plugins-el7 --baseurl=http://yum.theforeman.org/plugins/nightly/el7/$basearch/
+repo --name="elrepo-el7" --mirrorlist=http://mirrors.elrepo.org/mirrors-elrepo.el7
